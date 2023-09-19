@@ -1,0 +1,28 @@
+Memory Inspector Log:
+
+
+Detected drives:
+
+C:/
+Total Space : 237,42 GB
+Available Space : 101,85 GB
+57,10% FULL
+
+D:/
+Total Space : 931,51 GB
+Available Space : 208,81 GB
+77,58% FULL
+
+
+Checking drives:
+C:/
+
+
+
+
+**SETTINGS**
+default        (no depth limit, limit to size >  ~1GB)
+***SCANNING***
+
+
+C:/

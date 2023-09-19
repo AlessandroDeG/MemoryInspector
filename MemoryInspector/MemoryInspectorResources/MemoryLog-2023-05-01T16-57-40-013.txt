@@ -1,0 +1,392 @@
+Memory Inspector Log:
+
+
+Detected drives:
+
+C:/
+Total Space : 237,42 GB
+Available Space : 77,11 GB
+67,52% FULL
+
+D:/
+Total Space : 931,51 GB
+Available Space : 293,10 GB
+68,54% FULL
+
+
+Checking drives:
+D:/
+
+
+
+
+**SETTINGS**
+default        (no depth limit, limit to size >  ~1GB)
+***SCANNING***
+
+
+D:/
+|
+|----Steam :   420,43 GB																								D:\Steam
+|------|----steamapps :   420,43 GB																								D:\Steam\steamapps
+|------|--------|----common :   373,85 GB																								D:\Steam\steamapps\common
+|------|--------|----------|----Battlefield 4 :   68,24 GB																								D:\Steam\steamapps\common\Battlefield 4
+|------|--------|----------|------------|----Update :   44,03 GB																								D:\Steam\steamapps\common\Battlefield 4\Update
+|------|--------|----------|------------|--------------|----Patch :   8,29 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Patch
+|------|--------|----------|------------|--------------|----------------|----Data :   8,29 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Patch\Data
+|------|--------|----------|------------|--------------|----------------|------------------|----Win32 :   2,72 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Patch\Data\Win32
+|------|--------|----------|------------|--------------|----------------|------------------|----cas_01.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Patch\Data\cas_01.cas
+|------|--------|----------|------------|--------------|----------------|------------------|----cas_09.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Patch\Data\cas_09.cas
+|------|--------|----------|------------|--------------|----------------|------------------|----cas_10.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Patch\Data\cas_10.cas
+|------|--------|----------|------------|--------------|----Xpack3 :   7,22 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack3
+|------|--------|----------|------------|--------------|----------------|----Data :   7,22 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack3\Data
+|------|--------|----------|------------|--------------|----------------|------------------|----Win32 :   7,22 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack3\Data\Win32
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP3LevelsChunks.sb :   3,98 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack3\Data\Win32\XP3LevelsChunks.sb
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP3 :   3,15 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack3\Data\Win32\XP3
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----Levels :   3,15 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack3\Data\Win32\XP3\Levels
+|------|--------|----------|------------|--------------|----Xpack4 :   7,10 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack4
+|------|--------|----------|------------|--------------|----------------|----Data :   7,10 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack4\Data
+|------|--------|----------|------------|--------------|----------------|------------------|----Win32 :   7,10 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack4\Data\Win32
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP4LevelsChunks.sb :   3,84 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack4\Data\Win32\XP4LevelsChunks.sb
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP4 :   2,99 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack4\Data\Win32\XP4
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----Levels :   2,99 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack4\Data\Win32\XP4\Levels
+|------|--------|----------|------------|--------------|----Xpack0 :   5,33 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack0
+|------|--------|----------|------------|--------------|----------------|----Data :   5,33 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack0\Data
+|------|--------|----------|------------|--------------|----------------|------------------|----Win32 :   5,33 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack0\Data\Win32
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP0 :   2,97 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack0\Data\Win32\XP0
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----Levels :   2,97 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack0\Data\Win32\XP0\Levels
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP0LevelsChunks.sb :   2,33 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack0\Data\Win32\XP0LevelsChunks.sb
+|------|--------|----------|------------|--------------|----Xpack2 :   4,96 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack2
+|------|--------|----------|------------|--------------|----------------|----Data :   4,96 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack2\Data
+|------|--------|----------|------------|--------------|----------------|------------------|----Win32 :   4,96 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack2\Data\Win32
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP2 :   3,20 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack2\Data\Win32\XP2
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----Levels :   3,20 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack2\Data\Win32\XP2\Levels
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP2LevelsChunks.sb :   1,72 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack2\Data\Win32\XP2LevelsChunks.sb
+|------|--------|----------|------------|--------------|----Xpack1 :   4,44 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack1
+|------|--------|----------|------------|--------------|----------------|----Data :   4,44 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack1\Data
+|------|--------|----------|------------|--------------|----------------|------------------|----Win32 :   4,44 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack1\Data\Win32
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP1 :   2,57 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack1\Data\Win32\XP1
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----Levels :   2,57 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack1\Data\Win32\XP1\Levels
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP1LevelsChunks.sb :   1,82 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack1\Data\Win32\XP1LevelsChunks.sb
+|------|--------|----------|------------|--------------|----Xpack7 :   2,90 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack7
+|------|--------|----------|------------|--------------|----------------|----Data :   2,90 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack7\Data
+|------|--------|----------|------------|--------------|----------------|------------------|----Win32 :   2,90 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack7\Data\Win32
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP7LevelsChunks.sb :   1,89 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack7\Data\Win32\XP7LevelsChunks.sb
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP7 :   1,01 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack7\Data\Win32\XP7
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----Levels :   1,01 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack7\Data\Win32\XP7\Levels
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|----MP_Valley :   1,01 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack7\Data\Win32\XP7\Levels\MP_Valley
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|--------------------------|----XP7_Valley.sb :   1,01 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack7\Data\Win32\XP7\Levels\MP_Valley\XP7_Valley.sb
+|------|--------|----------|------------|--------------|----Xpack6 :   2,84 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack6
+|------|--------|----------|------------|--------------|----------------|----Data :   2,84 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack6\Data
+|------|--------|----------|------------|--------------|----------------|------------------|----Win32 :   2,84 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack6\Data\Win32
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP6LevelsChunks.sb :   1,65 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack6\Data\Win32\XP6LevelsChunks.sb
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----XP6 :   1,12 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack6\Data\Win32\XP6
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----Levels :   1,12 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack6\Data\Win32\XP6\Levels
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|----MP_CMP :   1,12 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack6\Data\Win32\XP6\Levels\MP_CMP
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|--------------------------|----XP6_CMP.sb :   1,12 GB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack6\Data\Win32\XP6\Levels\MP_CMP\XP6_CMP.sb
+|------|--------|----------|------------|--------------|----Xpack5 :   966,87 MB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack5
+|------|--------|----------|------------|--------------|----------------|----Data :   966,87 MB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack5\Data
+|------|--------|----------|------------|--------------|----------------|------------------|----Win32 :   966,87 MB																								D:\Steam\steamapps\common\Battlefield 4\Update\Xpack5\Data\Win32
+|------|--------|----------|------------|----Data :   23,87 GB																								D:\Steam\steamapps\common\Battlefield 4\Data
+|------|--------|----------|------------|--------------|----Win32 :   3,07 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\Win32
+|------|--------|----------|------------|--------------|----------------|----WeaponChunks.sb :   1,19 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\Win32\WeaponChunks.sb
+|------|--------|----------|------------|--------------|----cas_06.cas :   1,12 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_06.cas
+|------|--------|----------|------------|--------------|----cas_14.cas :   1,09 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_14.cas
+|------|--------|----------|------------|--------------|----cas_08.cas :   1,06 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_08.cas
+|------|--------|----------|------------|--------------|----cas_04.cas :   1,01 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_04.cas
+|------|--------|----------|------------|--------------|----cas_10.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_10.cas
+|------|--------|----------|------------|--------------|----cas_15.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_15.cas
+|------|--------|----------|------------|--------------|----cas_11.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_11.cas
+|------|--------|----------|------------|--------------|----cas_18.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_18.cas
+|------|--------|----------|------------|--------------|----cas_17.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_17.cas
+|------|--------|----------|------------|--------------|----cas_16.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_16.cas
+|------|--------|----------|------------|--------------|----cas_07.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_07.cas
+|------|--------|----------|------------|--------------|----cas_03.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_03.cas
+|------|--------|----------|------------|--------------|----cas_02.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_02.cas
+|------|--------|----------|------------|--------------|----cas_09.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_09.cas
+|------|--------|----------|------------|--------------|----cas_20.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_20.cas
+|------|--------|----------|------------|--------------|----cas_05.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_05.cas
+|------|--------|----------|------------|--------------|----cas_12.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_12.cas
+|------|--------|----------|------------|--------------|----cas_13.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_13.cas
+|------|--------|----------|------------|--------------|----cas_19.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_19.cas
+|------|--------|----------|------------|--------------|----cas_01.cas :   1,00 GB																								D:\Steam\steamapps\common\Battlefield 4\Data\cas_01.cas
+|------|--------|----------|----The Witcher 3 :   49,81 GB																								D:\Steam\steamapps\common\The Witcher 3
+|------|--------|----------|------------|----content :   33,31 GB																								D:\Steam\steamapps\common\The Witcher 3\content
+|------|--------|----------|------------|--------------|----content4 :   15,55 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content4
+|------|--------|----------|------------|--------------|----------------|----streaming.cache :   6,07 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content4\streaming.cache
+|------|--------|----------|------------|--------------|----------------|----bundles :   5,82 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content4\bundles
+|------|--------|----------|------------|--------------|----------------|------------------|----movies.bundle :   3,23 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content4\bundles\movies.bundle
+|------|--------|----------|------------|--------------|----------------|------------------|----buffers0.bundle :   1,56 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content4\bundles\buffers0.bundle
+|------|--------|----------|------------|--------------|----------------|----enpc.w3speech :   1,48 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content4\enpc.w3speech
+|------|--------|----------|------------|--------------|----------------|----soundspc.cache :   1,24 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content4\soundspc.cache
+|------|--------|----------|------------|--------------|----content0 :   7,07 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content0
+|------|--------|----------|------------|--------------|----------------|----texture.cache :   3,24 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content0\texture.cache
+|------|--------|----------|------------|--------------|----------------|----bundles :   2,95 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content0\bundles
+|------|--------|----------|------------|--------------|----------------|------------------|----movies.bundle :   1,57 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content0\bundles\movies.bundle
+|------|--------|----------|------------|--------------|----content5 :   3,09 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content5
+|------|--------|----------|------------|--------------|----------------|----bundles :   1,32 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content5\bundles
+|------|--------|----------|------------|--------------|----patch1 :   1,93 GB																								D:\Steam\steamapps\common\The Witcher 3\content\patch1
+|------|--------|----------|------------|--------------|----------------|----sounds.cache :   1,03 GB																								D:\Steam\steamapps\common\The Witcher 3\content\patch1\sounds.cache
+|------|--------|----------|------------|--------------|----content1 :   1,71 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content1
+|------|--------|----------|------------|--------------|----content10 :   1,46 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content10
+|------|--------|----------|------------|--------------|----------------|----bundles :   1,34 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content10\bundles
+|------|--------|----------|------------|--------------|----------------|------------------|----buffers.bundle :   1,04 GB																								D:\Steam\steamapps\common\The Witcher 3\content\content10\bundles\buffers.bundle
+|------|--------|----------|------------|----DLC :   11,41 GB																								D:\Steam\steamapps\common\The Witcher 3\DLC
+|------|--------|----------|------------|--------------|----bob :   8,60 GB																								D:\Steam\steamapps\common\The Witcher 3\DLC\bob
+|------|--------|----------|------------|--------------|----------------|----content :   8,60 GB																								D:\Steam\steamapps\common\The Witcher 3\DLC\bob\content
+|------|--------|----------|------------|--------------|----------------|------------------|----bundles :   2,85 GB																								D:\Steam\steamapps\common\The Witcher 3\DLC\bob\content\bundles
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----buffers.bundle :   1,49 GB																								D:\Steam\steamapps\common\The Witcher 3\DLC\bob\content\bundles\buffers.bundle
+|------|--------|----------|------------|--------------|----------------|------------------|----texture.cache :   2,72 GB																								D:\Steam\steamapps\common\The Witcher 3\DLC\bob\content\texture.cache
+|------|--------|----------|------------|--------------|----------------|------------------|----streaming.cache :   1,49 GB																								D:\Steam\steamapps\common\The Witcher 3\DLC\bob\content\streaming.cache
+|------|--------|----------|------------|--------------|----------------|------------------|----enpc.w3speech :   1,11 GB																								D:\Steam\steamapps\common\The Witcher 3\DLC\bob\content\enpc.w3speech
+|------|--------|----------|------------|--------------|----ep1 :   2,24 GB																								D:\Steam\steamapps\common\The Witcher 3\DLC\ep1
+|------|--------|----------|------------|--------------|----------------|----content :   2,24 GB																								D:\Steam\steamapps\common\The Witcher 3\DLC\ep1\content
+|------|--------|----------|------------|--------------|----------------|------------------|----bundles :   1,12 GB																								D:\Steam\steamapps\common\The Witcher 3\DLC\ep1\content\bundles
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----blob.bundle :   1014,25 MB																								D:\Steam\steamapps\common\The Witcher 3\DLC\ep1\content\bundles\blob.bundle
+|------|--------|----------|------------|----ARTBOOK :   3,05 GB																								D:\Steam\steamapps\common\The Witcher 3\ARTBOOK
+|------|--------|----------|----Arma 3 :   47,02 GB																								D:\Steam\steamapps\common\Arma 3
+|------|--------|----------|------------|----Addons :   15,04 GB																								D:\Steam\steamapps\common\Arma 3\Addons
+|------|--------|----------|------------|----Expansion :   9,37 GB																								D:\Steam\steamapps\common\Arma 3\Expansion
+|------|--------|----------|------------|--------------|----Addons :   9,37 GB																								D:\Steam\steamapps\common\Arma 3\Expansion\Addons
+|------|--------|----------|------------|--------------|----------------|----structures_f_exp_data.pbo :   1,21 GB																								D:\Steam\steamapps\common\Arma 3\Expansion\Addons\structures_f_exp_data.pbo
+|------|--------|----------|------------|----Enoch :   7,68 GB																								D:\Steam\steamapps\common\Arma 3\Enoch
+|------|--------|----------|------------|--------------|----Addons :   7,68 GB																								D:\Steam\steamapps\common\Arma 3\Enoch\Addons
+|------|--------|----------|------------|--------------|----------------|----structures_f_enoch_data.pbo :   1,20 GB																								D:\Steam\steamapps\common\Arma 3\Enoch\Addons\structures_f_enoch_data.pbo
+|------|--------|----------|------------|----!Workshop :   4,00 GB																								D:\Steam\steamapps\common\Arma 3\!Workshop
+|------|--------|----------|------------|--------------|----@NIArms All in One :   3,90 GB																								D:\Steam\steamapps\common\Arma 3\!Workshop\@NIArms All in One
+|------|--------|----------|------------|--------------|----------------|----addons :   3,90 GB																								D:\Steam\steamapps\common\Arma 3\!Workshop\@NIArms All in One\addons
+|------|--------|----------|------------|----Bonus :   2,54 GB																								D:\Steam\steamapps\common\Arma 3\Bonus
+|------|--------|----------|------------|--------------|----Soundtrack :   2,08 GB																								D:\Steam\steamapps\common\Arma 3\Bonus\Soundtrack
+|------|--------|----------|------------|----Jets :   1,78 GB																								D:\Steam\steamapps\common\Arma 3\Jets
+|------|--------|----------|------------|--------------|----Addons :   1,78 GB																								D:\Steam\steamapps\common\Arma 3\Jets\Addons
+|------|--------|----------|------------|----Orange :   1,51 GB																								D:\Steam\steamapps\common\Arma 3\Orange
+|------|--------|----------|------------|--------------|----Addons :   1,51 GB																								D:\Steam\steamapps\common\Arma 3\Orange\Addons
+|------|--------|----------|------------|----Argo :   1,38 GB																								D:\Steam\steamapps\common\Arma 3\Argo
+|------|--------|----------|------------|--------------|----Addons :   1,38 GB																								D:\Steam\steamapps\common\Arma 3\Argo\Addons
+|------|--------|----------|------------|--------------|----------------|----structures_f_argo.pbo :   1,05 GB																								D:\Steam\steamapps\common\Arma 3\Argo\Addons\structures_f_argo.pbo
+|------|--------|----------|------------|----Tank :   1,18 GB																								D:\Steam\steamapps\common\Arma 3\Tank
+|------|--------|----------|------------|--------------|----Addons :   1,18 GB																								D:\Steam\steamapps\common\Arma 3\Tank\Addons
+|------|--------|----------|----War Thunder :   46,73 GB																								D:\Steam\steamapps\common\War Thunder
+|------|--------|----------|------------|----content.hq :   27,51 GB																								D:\Steam\steamapps\common\War Thunder\content.hq
+|------|--------|----------|------------|--------------|----hq_tex :   22,84 GB																								D:\Steam\steamapps\common\War Thunder\content.hq\hq_tex
+|------|--------|----------|------------|--------------|----------------|----res :   22,84 GB																								D:\Steam\steamapps\common\War Thunder\content.hq\hq_tex\res
+|------|--------|----------|------------|--------------|----------------|------------------|----hq_tex_tanks :   5,77 GB																								D:\Steam\steamapps\common\War Thunder\content.hq\hq_tex\res\hq_tex_tanks
+|------|--------|----------|------------|--------------|----------------|------------------|----hq_tex_aircrafts :   4,86 GB																								D:\Steam\steamapps\common\War Thunder\content.hq\hq_tex\res\hq_tex_aircrafts
+|------|--------|----------|------------|--------------|----------------|------------------|----hq_tex_ships :   4,82 GB																								D:\Steam\steamapps\common\War Thunder\content.hq\hq_tex\res\hq_tex_ships
+|------|--------|----------|------------|--------------|----pkg_cockpits :   4,67 GB																								D:\Steam\steamapps\common\War Thunder\content.hq\pkg_cockpits
+|------|--------|----------|------------|--------------|----------------|----res :   4,67 GB																								D:\Steam\steamapps\common\War Thunder\content.hq\pkg_cockpits\res
+|------|--------|----------|------------|--------------|----------------|------------------|----pkg_cockpits_aircrafts :   4,37 GB																								D:\Steam\steamapps\common\War Thunder\content.hq\pkg_cockpits\res\pkg_cockpits_aircrafts
+|------|--------|----------|------------|----content :   12,42 GB																								D:\Steam\steamapps\common\War Thunder\content
+|------|--------|----------|------------|--------------|----base :   11,32 GB																								D:\Steam\steamapps\common\War Thunder\content\base
+|------|--------|----------|------------|--------------|----------------|----res :   11,32 GB																								D:\Steam\steamapps\common\War Thunder\content\base\res
+|------|--------|----------|------------|--------------|----------------|------------------|----tanks :   1,14 GB																								D:\Steam\steamapps\common\War Thunder\content\base\res\tanks
+|------|--------|----------|------------|--------------|----------------|------------------|----aircrafts :   1,03 GB																								D:\Steam\steamapps\common\War Thunder\content\base\res\aircrafts
+|------|--------|----------|------------|--------------|----hc_pacific :   1,10 GB																								D:\Steam\steamapps\common\War Thunder\content\hc_pacific
+|------|--------|----------|------------|--------------|----------------|----video :   1,10 GB																								D:\Steam\steamapps\common\War Thunder\content\hc_pacific\video
+|------|--------|----------|------------|----levels :   2,24 GB																								D:\Steam\steamapps\common\War Thunder\levels
+|------|--------|----------|------------|----sound :   1,82 GB																								D:\Steam\steamapps\common\War Thunder\sound
+|------|--------|----------|----Company of Heroes 2 :   31,95 GB																								D:\Steam\steamapps\common\Company of Heroes 2
+|------|--------|----------|------------|----CoH2 :   31,86 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2
+|------|--------|----------|------------|--------------|----Archives :   25,62 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Archives
+|------|--------|----------|------------|--------------|----------------|----ArtAEFSkins.sga :   3,99 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Archives\ArtAEFSkins.sga
+|------|--------|----------|------------|--------------|----------------|----ArtSovietEF.sga :   3,62 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Archives\ArtSovietEF.sga
+|------|--------|----------|------------|--------------|----------------|----ArtWestGerman.sga :   3,43 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Archives\ArtWestGerman.sga
+|------|--------|----------|------------|--------------|----------------|----ArtGermanEF.sga :   2,73 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Archives\ArtGermanEF.sga
+|------|--------|----------|------------|--------------|----------------|----ArtBritish.sga :   1,79 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Archives\ArtBritish.sga
+|------|--------|----------|------------|--------------|----------------|----MPScenarios.sga :   1,72 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Archives\MPScenarios.sga
+|------|--------|----------|------------|--------------|----------------|----ArtEnvironment.sga :   1,18 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Archives\ArtEnvironment.sga
+|------|--------|----------|------------|--------------|----------------|----ArtAEF.sga :   1,07 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Archives\ArtAEF.sga
+|------|--------|----------|------------|--------------|----------------|----SoundHigh.sga :   983,68 MB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Archives\SoundHigh.sga
+|------|--------|----------|------------|--------------|----Movies :   6,22 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Movies
+|------|--------|----------|------------|--------------|----------------|----Tutorials :   1,61 GB																								D:\Steam\steamapps\common\Company of Heroes 2\CoH2\Movies\Tutorials
+|------|--------|----------|----Counter-Strike Global Offensive :   29,71 GB																								D:\Steam\steamapps\common\Counter-Strike Global Offensive
+|------|--------|----------|------------|----csgo :   28,48 GB																								D:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo
+|------|--------|----------|------------|--------------|----maps :   4,97 GB																								D:\Steam\steamapps\common\Counter-Strike Global Offensive\csgo\maps
+|------|--------|----------|----SMITE :   29,64 GB																								D:\Steam\steamapps\common\SMITE
+|------|--------|----------|------------|----BattleGame :   29,00 GB																								D:\Steam\steamapps\common\SMITE\BattleGame
+|------|--------|----------|------------|--------------|----CookedPCConsole :   28,73 GB																								D:\Steam\steamapps\common\SMITE\BattleGame\CookedPCConsole
+|------|--------|----------|----Rust :   19,16 GB																								D:\Steam\steamapps\common\Rust
+|------|--------|----------|------------|----Bundles :   18,48 GB																								D:\Steam\steamapps\common\Rust\Bundles
+|------|--------|----------|------------|--------------|----shared :   13,07 GB																								D:\Steam\steamapps\common\Rust\Bundles\shared
+|------|--------|----------|------------|--------------|----------------|----textures.split.bundle :   3,47 GB																								D:\Steam\steamapps\common\Rust\Bundles\shared\textures.split.bundle
+|------|--------|----------|------------|--------------|----------------|----content.bundle :   2,49 GB																								D:\Steam\steamapps\common\Rust\Bundles\shared\content.bundle
+|------|--------|----------|------------|--------------|----------------|----textures.bundle :   2,26 GB																								D:\Steam\steamapps\common\Rust\Bundles\shared\textures.bundle
+|------|--------|----------|------------|--------------|----------------|----textures.split.split.bundle :   1,88 GB																								D:\Steam\steamapps\common\Rust\Bundles\shared\textures.split.split.bundle
+|------|--------|----------|------------|--------------|----------------|----monuments.bundle :   1,55 GB																								D:\Steam\steamapps\common\Rust\Bundles\shared\monuments.bundle
+|------|--------|----------|------------|--------------|----------------|----audio.bundle :   1,41 GB																								D:\Steam\steamapps\common\Rust\Bundles\shared\audio.bundle
+|------|--------|----------|------------|--------------|----textures :   4,62 GB																								D:\Steam\steamapps\common\Rust\Bundles\textures
+|------|--------|----------|----Paladins :   17,50 GB																								D:\Steam\steamapps\common\Paladins
+|------|--------|----------|------------|----ChaosGame :   16,92 GB																								D:\Steam\steamapps\common\Paladins\ChaosGame
+|------|--------|----------|------------|--------------|----CookedPCConsole :   16,83 GB																								D:\Steam\steamapps\common\Paladins\ChaosGame\CookedPCConsole
+|------|--------|----------|------------|--------------|----------------|----English(US) :   1,46 GB																								D:\Steam\steamapps\common\Paladins\ChaosGame\CookedPCConsole\English(US)
+|------|--------|----------|------------|--------------|----------------|----CharTexturesHighRes0.tfc :   1,08 GB																								D:\Steam\steamapps\common\Paladins\ChaosGame\CookedPCConsole\CharTexturesHighRes0.tfc
+|------|--------|----------|----Little Nightmares :   8,99 GB																								D:\Steam\steamapps\common\Little Nightmares
+|------|--------|----------|------------|----Atlas :   8,96 GB																								D:\Steam\steamapps\common\Little Nightmares\Atlas
+|------|--------|----------|------------|--------------|----Content :   8,91 GB																								D:\Steam\steamapps\common\Little Nightmares\Atlas\Content
+|------|--------|----------|------------|--------------|----------------|----Paks :   8,91 GB																								D:\Steam\steamapps\common\Little Nightmares\Atlas\Content\Paks
+|------|--------|----------|------------|--------------|----------------|------------------|----Atlas-WindowsNoEditor.pak :   8,91 GB																								D:\Steam\steamapps\common\Little Nightmares\Atlas\Content\Paks\Atlas-WindowsNoEditor.pak
+|------|--------|----------|----Realm Royale :   5,96 GB																								D:\Steam\steamapps\common\Realm Royale
+|------|--------|----------|------------|----RealmGame :   5,66 GB																								D:\Steam\steamapps\common\Realm Royale\RealmGame
+|------|--------|----------|------------|--------------|----CookedPCConsole :   5,61 GB																								D:\Steam\steamapps\common\Realm Royale\RealmGame\CookedPCConsole
+|------|--------|----------|----Sid Meier's Civilization V :   5,81 GB																								D:\Steam\steamapps\common\Sid Meier's Civilization V
+|------|--------|----------|------------|----Assets :   3,45 GB																								D:\Steam\steamapps\common\Sid Meier's Civilization V\Assets
+|------|--------|----------|------------|--------------|----Sounds :   1,46 GB																								D:\Steam\steamapps\common\Sid Meier's Civilization V\Assets\Sounds
+|------|--------|----------|------------|--------------|----------------|----Streamed :   1,10 GB																								D:\Steam\steamapps\common\Sid Meier's Civilization V\Assets\Sounds\Streamed
+|------|--------|----------|------------|--------------|----------------|------------------|----Music :   1,08 GB																								D:\Steam\steamapps\common\Sid Meier's Civilization V\Assets\Sounds\Streamed\Music
+|------|--------|----------|------------|--------------|----terrain :   969,75 MB																								D:\Steam\steamapps\common\Sid Meier's Civilization V\Assets\terrain
+|------|--------|----------|------------|--------------|----------------|----pieces :   969,75 MB																								D:\Steam\steamapps\common\Sid Meier's Civilization V\Assets\terrain\pieces
+|------|--------|----------|------------|----Resource :   1,55 GB																								D:\Steam\steamapps\common\Sid Meier's Civilization V\Resource
+|------|--------|----------|------------|--------------|----DX9 :   985,38 MB																								D:\Steam\steamapps\common\Sid Meier's Civilization V\Resource\DX9
+|------|--------|----------|----Kerbal Space Program :   5,11 GB																								D:\Steam\steamapps\common\Kerbal Space Program
+|------|--------|----------|------------|----KSP_x64_Data :   3,47 GB																								D:\Steam\steamapps\common\Kerbal Space Program\KSP_x64_Data
+|------|--------|----------|------------|--------------|----sharedassets9.assets.resS :   1,22 GB																								D:\Steam\steamapps\common\Kerbal Space Program\KSP_x64_Data\sharedassets9.assets.resS
+|------|--------|----------|------------|----GameData :   1,06 GB																								D:\Steam\steamapps\common\Kerbal Space Program\GameData
+|------|--------|----------|------------|--------------|----Squad :   1,06 GB																								D:\Steam\steamapps\common\Kerbal Space Program\GameData\Squad
+|------|--------|----------|----Unturned :   2,76 GB																								D:\Steam\steamapps\common\Unturned
+|------|--------|----------|------------|----Maps :   1,41 GB																								D:\Steam\steamapps\common\Unturned\Maps
+|------|--------|----------|------------|----Unturned_Data :   1015,97 MB																								D:\Steam\steamapps\common\Unturned\Unturned_Data
+|------|--------|----------|----Age of Mythology :   2,51 GB																								D:\Steam\steamapps\common\Age of Mythology
+|------|--------|----------|------------|----sound :   1,16 GB																								D:\Steam\steamapps\common\Age of Mythology\sound
+|------|--------|----------|----Sid Meier's Civilization III Complete :   1,76 GB																								D:\Steam\steamapps\common\Sid Meier's Civilization III Complete
+|------|--------|----------|----Valheim :   1,19 GB																								D:\Steam\steamapps\common\Valheim
+|------|--------|----------|------------|----valheim_Data :   1,14 GB																								D:\Steam\steamapps\common\Valheim\valheim_Data
+|------|--------|----downloading :   40,77 GB																								D:\Steam\steamapps\downloading
+|------|--------|----------|----386360 :   32,75 GB																								D:\Steam\steamapps\downloading\386360
+|------|--------|----------|------------|----BattleGame :   32,51 GB																								D:\Steam\steamapps\downloading\386360\BattleGame
+|------|--------|----------|------------|--------------|----CookedPCConsole :   32,36 GB																								D:\Steam\steamapps\downloading\386360\BattleGame\CookedPCConsole
+|------|--------|----------|----444090 :   7,74 GB																								D:\Steam\steamapps\downloading\444090
+|------|--------|----------|------------|----ChaosGame :   7,53 GB																								D:\Steam\steamapps\downloading\444090\ChaosGame
+|------|--------|----------|------------|--------------|----CookedPCConsole :   7,46 GB																								D:\Steam\steamapps\downloading\444090\ChaosGame\CookedPCConsole
+|------|--------|----workshop :   5,71 GB																								D:\Steam\steamapps\workshop
+|------|--------|----------|----content :   5,71 GB																								D:\Steam\steamapps\workshop\content
+|------|--------|----------|------------|----107410 :   4,01 GB																								D:\Steam\steamapps\workshop\content\107410
+|------|--------|----------|------------|--------------|----1208517358 :   3,90 GB																								D:\Steam\steamapps\workshop\content\107410\1208517358
+|------|--------|----------|------------|--------------|----------------|----addons :   3,90 GB																								D:\Steam\steamapps\workshop\content\107410\1208517358\addons
+|------|--------|----------|------------|----252490 :   1,21 GB																								D:\Steam\steamapps\workshop\content\252490
+|
+|----Backups :   58,45 GB																								D:\Backups
+|------|----Backup :   22,65 GB																								D:\Backups\Backup
+|------|--------|----Foto chiavetta :   18,19 GB																								D:\Backups\Backup\Foto chiavetta
+|------|--------|----------|----Foto Chiavetta :   18,19 GB																								D:\Backups\Backup\Foto chiavetta\Foto Chiavetta
+|------|--------|----------|------------|----FOTO :   18,19 GB																								D:\Backups\Backup\Foto chiavetta\Foto Chiavetta\FOTO
+|------|--------|----------|------------|--------------|----Pictures :   10,54 GB																								D:\Backups\Backup\Foto chiavetta\Foto Chiavetta\FOTO\Pictures
+|------|--------|----------|------------|--------------|----------------|----2014-08-28 :   5,31 GB																								D:\Backups\Backup\Foto chiavetta\Foto Chiavetta\FOTO\Pictures\2014-08-28
+|------|--------|----------|------------|--------------|----------------|------------------|----231.MOV :   1,12 GB																								D:\Backups\Backup\Foto chiavetta\Foto Chiavetta\FOTO\Pictures\2014-08-28\231.MOV
+|------|--------|----------|------------|--------------|----------------|----2014-09-26 :   1,80 GB																								D:\Backups\Backup\Foto chiavetta\Foto Chiavetta\FOTO\Pictures\2014-09-26
+|------|--------|----------|------------|--------------|----------------|----2014-08-13 :   1,22 GB																								D:\Backups\Backup\Foto chiavetta\Foto Chiavetta\FOTO\Pictures\2014-08-13
+|------|--------|----------|------------|--------------|----fotooo :   7,65 GB																								D:\Backups\Backup\Foto chiavetta\Foto Chiavetta\FOTO\fotooo
+|------|--------|----------|------------|--------------|----------------|----823WGTMA :   7,65 GB																								D:\Backups\Backup\Foto chiavetta\Foto Chiavetta\FOTO\fotooo\823WGTMA
+|------|--------|----------|------------|--------------|----------------|------------------|----860OKMZO :   6,92 GB																								D:\Backups\Backup\Foto chiavetta\Foto Chiavetta\FOTO\fotooo\823WGTMA\860OKMZO
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----IMG_0371.MOV :   1,12 GB																								D:\Backups\Backup\Foto chiavetta\Foto Chiavetta\FOTO\fotooo\823WGTMA\860OKMZO\IMG_0371.MOV
+|------|--------|----Pictures :   4,42 GB																								D:\Backups\Backup\Pictures
+|------|--------|----------|----2015-03 :   1007,70 MB																								D:\Backups\Backup\Pictures\2015-03
+|------|----backupfoto2019-2020 :   22,18 GB																								D:\Backups\backupfoto2019-2020
+|------|--------|----2020-05 :   10,43 GB																								D:\Backups\backupfoto2019-2020\2020-05
+|------|--------|----------|----IMG_5271.MOV :   1,53 GB																								D:\Backups\backupfoto2019-2020\2020-05\IMG_5271.MOV
+|------|--------|----------|----IMG_5252.MOV :   1,31 GB																								D:\Backups\backupfoto2019-2020\2020-05\IMG_5252.MOV
+|------|--------|----2020-07 :   1,86 GB																								D:\Backups\backupfoto2019-2020\2020-07
+|------|--------|----2020-04 :   1,27 GB																								D:\Backups\backupfoto2019-2020\2020-04
+|------|--------|----2019-05 :   1,18 GB																								D:\Backups\backupfoto2019-2020\2019-05
+|------|--------|----2020-09 :   1,04 GB																								D:\Backups\backupfoto2019-2020\2020-09
+|------|--------|----2020-03 :   999,56 MB																								D:\Backups\backupfoto2019-2020\2020-03
+|------|----Backup foto iPhone :   13,32 GB																								D:\Backups\Backup foto iPhone
+|------|--------|----102APPLE :   5,49 GB																								D:\Backups\Backup foto iPhone\102APPLE
+|------|--------|----------|----IMG_2166.MOV :   2,32 GB																								D:\Backups\Backup foto iPhone\102APPLE\IMG_2166.MOV
+|------|--------|----100APPLE :   4,81 GB																								D:\Backups\Backup foto iPhone\100APPLE
+|------|--------|----------|----IMG_0371.MOV :   2,14 GB																								D:\Backups\Backup foto iPhone\100APPLE\IMG_0371.MOV
+|------|--------|----101APPLE :   3,03 GB																								D:\Backups\Backup foto iPhone\101APPLE
+|
+|----Warship :   51,38 GB																								D:\Warship
+|------|----World_of_Warships_Eu :   51,38 GB																								D:\Warship\World_of_Warships_Eu
+|------|--------|----res_packages :   49,88 GB																								D:\Warship\World_of_Warships_Eu\res_packages
+|------|--------|----------|----vehicles_level9_0001.pkg :   2,00 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level9_0001.pkg
+|------|--------|----------|----vehicles_level5_0001.pkg :   2,00 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level5_0001.pkg
+|------|--------|----------|----vehicles_level10_0002.pkg :   2,00 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level10_0002.pkg
+|------|--------|----------|----vehicles_level8_0002.pkg :   2,00 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level8_0002.pkg
+|------|--------|----------|----vehicles_level7_0001.pkg :   2,00 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level7_0001.pkg
+|------|--------|----------|----vehicles_level10_0001.pkg :   2,00 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level10_0001.pkg
+|------|--------|----------|----basecontent_0001.pkg :   2,00 GB																								D:\Warship\World_of_Warships_Eu\res_packages\basecontent_0001.pkg
+|------|--------|----------|----vehicles_level8_0001.pkg :   2,00 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level8_0001.pkg
+|------|--------|----------|----vehicles_level6_0001.pkg :   1,96 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level6_0001.pkg
+|------|--------|----------|----vehicles_level8_premium_0001.pkg :   1,80 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level8_premium_0001.pkg
+|------|--------|----------|----vehicles_level10_0003.pkg :   1,79 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level10_0003.pkg
+|------|--------|----------|----vehicles_level4_0001.pkg :   1,72 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level4_0001.pkg
+|------|--------|----------|----vehicles_level6_premium_0001.pkg :   1,46 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level6_premium_0001.pkg
+|------|--------|----------|----vehicles_level3_0001.pkg :   1,43 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level3_0001.pkg
+|------|--------|----------|----gui_0001.pkg :   1,21 GB																								D:\Warship\World_of_Warships_Eu\res_packages\gui_0001.pkg
+|------|--------|----------|----vehicles_level9_0002.pkg :   1,00 GB																								D:\Warship\World_of_Warships_Eu\res_packages\vehicles_level9_0002.pkg
+|
+|----Apple :   49,32 GB																								D:\Apple
+|------|----MobileSync :   49,32 GB																								D:\Apple\MobileSync
+|------|--------|----Backup :   49,32 GB																								D:\Apple\MobileSync\Backup
+|------|--------|----------|----2d11daebdd0762f52ea25466fc54d45518ed6424 :   49,32 GB																								D:\Apple\MobileSync\Backup\2d11daebdd0762f52ea25466fc54d45518ed6424
+|------|--------|----------|------------|----1b :   2,47 GB																								D:\Apple\MobileSync\Backup\2d11daebdd0762f52ea25466fc54d45518ed6424\1b
+|------|--------|----------|------------|--------------|----1b631f8468e38e0dbcc6c50e2fbab1506183e844 :   2,32 GB																								D:\Apple\MobileSync\Backup\2d11daebdd0762f52ea25466fc54d45518ed6424\1b\1b631f8468e38e0dbcc6c50e2fbab1506183e844
+|------|--------|----------|------------|----7f :   2,27 GB																								D:\Apple\MobileSync\Backup\2d11daebdd0762f52ea25466fc54d45518ed6424\7f
+|------|--------|----------|------------|--------------|----7fbc899e2baff3e52f770b660175574ecefa41d3 :   2,14 GB																								D:\Apple\MobileSync\Backup\2d11daebdd0762f52ea25466fc54d45518ed6424\7f\7fbc899e2baff3e52f770b660175574ecefa41d3
+|------|--------|----------|------------|----a4 :   1,66 GB																								D:\Apple\MobileSync\Backup\2d11daebdd0762f52ea25466fc54d45518ed6424\a4
+|------|--------|----------|------------|--------------|----a48eb9ee2649d10b3c41597f4b4af144cb72fecc :   1,53 GB																								D:\Apple\MobileSync\Backup\2d11daebdd0762f52ea25466fc54d45518ed6424\a4\a48eb9ee2649d10b3c41597f4b4af144cb72fecc
+|------|--------|----------|------------|----e5 :   1,43 GB																								D:\Apple\MobileSync\Backup\2d11daebdd0762f52ea25466fc54d45518ed6424\e5
+|------|--------|----------|------------|--------------|----e5a79dae2ca7dc67ff813fd23563951473d3b224 :   1,31 GB																								D:\Apple\MobileSync\Backup\2d11daebdd0762f52ea25466fc54d45518ed6424\e5\e5a79dae2ca7dc67ff813fd23563951473d3b224
+|------|--------|----------|------------|----f2 :   1001,94 MB																								D:\Apple\MobileSync\Backup\2d11daebdd0762f52ea25466fc54d45518ed6424\f2
+|
+|----Torrents :   27,44 GB																								D:\Torrents
+|------|----Louie :   13,24 GB																								D:\Torrents\Louie
+|------|--------|----Season 4 :   3,16 GB																								D:\Torrents\Louie\Season 4
+|------|--------|----Season 2 :   3,14 GB																								D:\Torrents\Louie\Season 2
+|------|--------|----Season 3 :   2,99 GB																								D:\Torrents\Louie\Season 3
+|------|--------|----Season 1 :   2,50 GB																								D:\Torrents\Louie\Season 1
+|------|--------|----Louie.S05.720p.AAC.x264-AuP :   1,44 GB																								D:\Torrents\Louie\Louie.S05.720p.AAC.x264-AuP
+|------|----Silicon Valley S01-S06 :   9,67 GB																								D:\Torrents\Silicon Valley S01-S06
+|------|--------|----Silicon Valley S03 :   1,87 GB																								D:\Torrents\Silicon Valley S01-S06\Silicon Valley S03
+|------|--------|----Silicon Valley S02 :   1,84 GB																								D:\Torrents\Silicon Valley S01-S06\Silicon Valley S02
+|------|--------|----Silicon Valley S01 :   1,73 GB																								D:\Torrents\Silicon Valley S01-S06\Silicon Valley S01
+|------|--------|----Silicon Valley S04 :   1,51 GB																								D:\Torrents\Silicon Valley S01-S06\Silicon Valley S04
+|------|--------|----Silicon Valley S06 :   1,39 GB																								D:\Torrents\Silicon Valley S01-S06\Silicon Valley S06
+|------|--------|----Silicon Valley S05 :   1,32 GB																								D:\Torrents\Silicon Valley S01-S06\Silicon Valley S05
+|------|----Borat (2006) [1080p] :   2,61 GB																								D:\Torrents\Borat (2006) [1080p]
+|------|--------|----Borat.2006.1080p.BrRip.x264.YIFY.rar :   1,30 GB																								D:\Torrents\Borat (2006) [1080p]\Borat.2006.1080p.BrRip.x264.YIFY.rar
+|------|--------|----Borat.2006.1080p.BrRip.x264.YIFY.mp4 :   1,30 GB																								D:\Torrents\Borat (2006) [1080p]\Borat.2006.1080p.BrRip.x264.YIFY.mp4
+|------|----Joker (2019) [BluRay] [1080p] [YTS.LT] :   1,92 GB																								D:\Torrents\Joker (2019) [BluRay] [1080p] [YTS.LT]
+|------|--------|----Joker.2019.1080p.BluRay.x264-[YTS.LT].mp4 :   1,92 GB																								D:\Torrents\Joker (2019) [BluRay] [1080p] [YTS.LT]\Joker.2019.1080p.BluRay.x264-[YTS.LT].mp4
+|
+|----Program Files :   11,01 GB																								D:\Program Files
+|------|----Wizards of the Coast :   10,84 GB																								D:\Program Files\Wizards of the Coast
+|------|--------|----MTGA :   10,84 GB																								D:\Program Files\Wizards of the Coast\MTGA
+|------|--------|----------|----MTGA_Data :   10,80 GB																								D:\Program Files\Wizards of the Coast\MTGA\MTGA_Data
+|------|--------|----------|------------|----Downloads :   10,03 GB																								D:\Program Files\Wizards of the Coast\MTGA\MTGA_Data\Downloads
+|------|--------|----------|------------|--------------|----AssetBundle :   8,93 GB																								D:\Program Files\Wizards of the Coast\MTGA\MTGA_Data\Downloads\AssetBundle
+|------|--------|----------|------------|--------------|----------------|----setagnostic_mdnassetlibrarypayloads_npe_4c12092c692be05fff09d497048cc20f.mtga :   976,70 MB																								D:\Program Files\Wizards of the Coast\MTGA\MTGA_Data\Downloads\AssetBundle\setagnostic_mdnassetlibrarypayloads_npe_4c12092c692be05fff09d497048cc20f.mtga
+|------|--------|----------|------------|--------------|----Audio :   1,06 GB																								D:\Program Files\Wizards of the Coast\MTGA\MTGA_Data\Downloads\Audio
+|
+|----VirtualMachines :   7,36 GB																								D:\VirtualMachines
+|------|----Linux :   7,21 GB																								D:\VirtualMachines\Linux
+|------|--------|----ubuntu-19.04-desktop-amd64.iso :   1,95 GB																								D:\VirtualMachines\Linux\ubuntu-19.04-desktop-amd64.iso
+|------|--------|----ubuntu-18.04.2-desktop-amd64.iso :   1,86 GB																								D:\VirtualMachines\Linux\ubuntu-18.04.2-desktop-amd64.iso
+|------|--------|----linuxmint-19.1-cinnamon-64bit.iso :   1,84 GB																								D:\VirtualMachines\Linux\linuxmint-19.1-cinnamon-64bit.iso
+|------|--------|----ubuntu-16.04.6-desktop-i386.iso :   1,56 GB																								D:\VirtualMachines\Linux\ubuntu-16.04.6-desktop-i386.iso
+|
+|----Windows10Upgrade :   6,48 GB																								D:\Windows10Upgrade
+|------|----17134.112.180619-1212.rs4_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_en-gb.esd_ :   3,24 GB																								D:\Windows10Upgrade\17134.112.180619-1212.rs4_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_en-gb.esd_
+|------|----17134.112.180619-1212.rs4_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_en-gb.esd :   3,24 GB																								D:\Windows10Upgrade\17134.112.180619-1212.rs4_release_svc_refresh_CLIENTCONSUMER_RET_x64FRE_en-gb.esd
+|
+|----Roba :   6,32 GB																								D:\Roba
+|------|----Caltech101 :   4,37 GB																								D:\Roba\Caltech101
+|------|--------|----Caltech101 :   4,37 GB																								D:\Roba\Caltech101\Caltech101
+|------|----Robo :   1017,99 MB																								D:\Roba\Robo
+|------|--------|----images :   981,27 MB																								D:\Roba\Robo\images
+|------|----All :   981,27 MB																								D:\Roba\All
+|
+|----data :   2,76 GB																								D:\data
+|------|----data :   8,74 GB																								D:\data\data
+|------|--------|----preprocess :   8,74 GB																								D:\data\data\preprocess
+|------|--------|----------|----ncaltech101 :   8,74 GB																								D:\data\data\preprocess\ncaltech101
+|------|--------|----------|------------|----training :   4,37 GB																								D:\data\data\preprocess\ncaltech101\training
+|------|--------|----------|------------|----raw :   4,37 GB																								D:\data\data\preprocess\ncaltech101\raw
+
+
+
+
+
+
+Total scanning time = 172s

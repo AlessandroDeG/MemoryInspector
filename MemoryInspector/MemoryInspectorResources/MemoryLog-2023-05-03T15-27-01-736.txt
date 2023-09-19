@@ -1,0 +1,215 @@
+Memory Inspector Log:
+
+
+Detected drives:
+
+C:/
+Total Space : 237,42 GB
+Available Space : 66,13 GB
+72,15% FULL
+
+D:/
+Total Space : 931,51 GB
+Available Space : 161,75 GB
+82,64% FULL
+
+
+Checking drives:
+C:/
+
+
+
+
+**SETTINGS**
+default        (no depth limit, limit to size >  ~1GB)
+***SCANNING***
+
+
+C:/
+|
+|----Users :   87,68 GB																								C:\Users
+|------|----Ale :   99,34 GB																								C:\Users\Ale
+|------|--------|----AppData :   32,21 GB																								C:\Users\Ale\AppData
+|------|--------|----------|----Local :   27,46 GB																								C:\Users\Ale\AppData\Local
+|------|--------|----------|------------|----Android :   4,93 GB																								C:\Users\Ale\AppData\Local\Android
+|------|--------|----------|------------|--------------|----Sdk :   4,93 GB																								C:\Users\Ale\AppData\Local\Android\Sdk
+|------|--------|----------|------------|--------------|----------------|----system-images :   2,69 GB																								C:\Users\Ale\AppData\Local\Android\Sdk\system-images
+|------|--------|----------|------------|--------------|----------------|------------------|----android-28 :   2,69 GB																								C:\Users\Ale\AppData\Local\Android\Sdk\system-images\android-28
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----google_apis_playstore :   2,69 GB																								C:\Users\Ale\AppData\Local\Android\Sdk\system-images\android-28\google_apis_playstore
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----x86 :   2,69 GB																								C:\Users\Ale\AppData\Local\Android\Sdk\system-images\android-28\google_apis_playstore\x86
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|----system.img :   2,58 GB																								C:\Users\Ale\AppData\Local\Android\Sdk\system-images\android-28\google_apis_playstore\x86\system.img
+|------|--------|----------|------------|----Programs :   4,64 GB																								C:\Users\Ale\AppData\Local\Programs
+|------|--------|----------|------------|--------------|----Python :   4,31 GB																								C:\Users\Ale\AppData\Local\Programs\Python
+|------|--------|----------|------------|--------------|----------------|----Python38 :   4,22 GB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38
+|------|--------|----------|------------|--------------|----------------|------------------|----Lib :   4,19 GB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----site-packages :   4,14 GB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----torch :   2,05 GB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages\torch
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|----lib :   2,02 GB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages\torch\lib
+|------|--------|----------|------------|----Temp :   3,44 GB																								C:\Users\Ale\AppData\Local\Temp
+|------|--------|----------|------------|--------------|----1oka03ei :   2,86 GB																								C:\Users\Ale\AppData\Local\Temp\1oka03ei
+|------|--------|----------|------------|----Google :   2,55 GB																								C:\Users\Ale\AppData\Local\Google
+|------|--------|----------|------------|--------------|----Chrome :   2,42 GB																								C:\Users\Ale\AppData\Local\Google\Chrome
+|------|--------|----------|------------|--------------|----------------|----User Data :   2,42 GB																								C:\Users\Ale\AppData\Local\Google\Chrome\User Data
+|------|--------|----------|------------|--------------|----------------|------------------|----Default :   2,25 GB																								C:\Users\Ale\AppData\Local\Google\Chrome\User Data\Default
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----Service Worker :   1,31 GB																								C:\Users\Ale\AppData\Local\Google\Chrome\User Data\Default\Service Worker
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----CacheStorage :   1,30 GB																								C:\Users\Ale\AppData\Local\Google\Chrome\User Data\Default\Service Worker\CacheStorage
+|------|--------|----------|------------|----Microsoft :   1,87 GB																								C:\Users\Ale\AppData\Local\Microsoft
+|------|--------|----------|------------|----Unity :   1,76 GB																								C:\Users\Ale\AppData\Local\Unity
+|------|--------|----------|------------|--------------|----cache :   1,74 GB																								C:\Users\Ale\AppData\Local\Unity\cache
+|------|--------|----------|------------|--------------|----------------|----npm :   1,63 GB																								C:\Users\Ale\AppData\Local\Unity\cache\npm
+|------|--------|----------|------------|--------------|----------------|------------------|----packages.unity.com :   1,63 GB																								C:\Users\Ale\AppData\Local\Unity\cache\npm\packages.unity.com
+|------|--------|----------|------------|----pip :   1,68 GB																								C:\Users\Ale\AppData\Local\pip
+|------|--------|----------|------------|--------------|----cache :   1,68 GB																								C:\Users\Ale\AppData\Local\pip\cache
+|------|--------|----------|------------|--------------|----------------|----http :   1,67 GB																								C:\Users\Ale\AppData\Local\pip\cache\http
+|------|--------|----------|------------|--------------|----------------|------------------|----8 :   982,21 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----c :   974,24 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8\c
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----1 :   974,24 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8\c\1
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|----8 :   974,24 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8\c\1\8
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|--------------------------|----d :   974,24 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8\c\1\8\d
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|--------------------------|----------------------------|----8c18d1617c45599766806515605ceb7c6ce6bae15101f0552b59ce1f :   974,24 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8\c\1\8\d\8c18d1617c45599766806515605ceb7c6ce6bae15101f0552b59ce1f
+|------|--------|----------|------------|----Docker :   1,50 GB																								C:\Users\Ale\AppData\Local\Docker
+|------|--------|----------|------------|--------------|----wsl :   1,48 GB																								C:\Users\Ale\AppData\Local\Docker\wsl
+|------|--------|----------|------------|--------------|----------------|----data :   1,39 GB																								C:\Users\Ale\AppData\Local\Docker\wsl\data
+|------|--------|----------|------------|--------------|----------------|------------------|----ext4.vhdx :   1,39 GB																								C:\Users\Ale\AppData\Local\Docker\wsl\data\ext4.vhdx
+|------|--------|----------|------------|----Packages :   1,09 GB																								C:\Users\Ale\AppData\Local\Packages
+|------|--------|----------|----Roaming :   4,26 GB																								C:\Users\Ale\AppData\Roaming
+|------|--------|----------|------------|----.minecraft :   1,28 GB																								C:\Users\Ale\AppData\Roaming\.minecraft
+|------|--------|----------|------------|----Microsoft :   1,06 GB																								C:\Users\Ale\AppData\Roaming\Microsoft
+|------|--------|----------|------------|--------------|----Teams :   1,01 GB																								C:\Users\Ale\AppData\Roaming\Microsoft\Teams
+|------|--------|----------|------------|----Slack :   978,97 MB																								C:\Users\Ale\AppData\Roaming\Slack
+|------|--------|----anaconda3 :   24,27 GB																								C:\Users\Ale\anaconda3
+|------|--------|----------|----pkgs :   14,78 GB																								C:\Users\Ale\anaconda3\pkgs
+|------|--------|----------|------------|----pytorch-1.11.0-py3.8_cuda11.3_cudnn8_0 :   2,85 GB																								C:\Users\Ale\anaconda3\pkgs\pytorch-1.11.0-py3.8_cuda11.3_cudnn8_0
+|------|--------|----------|------------|--------------|----Lib :   2,84 GB																								C:\Users\Ale\anaconda3\pkgs\pytorch-1.11.0-py3.8_cuda11.3_cudnn8_0\Lib
+|------|--------|----------|------------|--------------|----------------|----site-packages :   2,84 GB																								C:\Users\Ale\anaconda3\pkgs\pytorch-1.11.0-py3.8_cuda11.3_cudnn8_0\Lib\site-packages
+|------|--------|----------|------------|--------------|----------------|------------------|----torch :   2,83 GB																								C:\Users\Ale\anaconda3\pkgs\pytorch-1.11.0-py3.8_cuda11.3_cudnn8_0\Lib\site-packages\torch
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----lib :   2,78 GB																								C:\Users\Ale\anaconda3\pkgs\pytorch-1.11.0-py3.8_cuda11.3_cudnn8_0\Lib\site-packages\torch\lib
+|------|--------|----------|------------|----cudatoolkit-11.3.1-hf2f0253_11 :   1,44 GB																								C:\Users\Ale\anaconda3\pkgs\cudatoolkit-11.3.1-hf2f0253_11
+|------|--------|----------|------------|--------------|----Library :   1,42 GB																								C:\Users\Ale\anaconda3\pkgs\cudatoolkit-11.3.1-hf2f0253_11\Library
+|------|--------|----------|------------|--------------|----------------|----bin :   1,42 GB																								C:\Users\Ale\anaconda3\pkgs\cudatoolkit-11.3.1-hf2f0253_11\Library\bin
+|------|--------|----------|------------|----cudatoolkit-11.3.1-h59b6b97_2 :   1,44 GB																								C:\Users\Ale\anaconda3\pkgs\cudatoolkit-11.3.1-h59b6b97_2
+|------|--------|----------|------------|--------------|----Library :   1,42 GB																								C:\Users\Ale\anaconda3\pkgs\cudatoolkit-11.3.1-h59b6b97_2\Library
+|------|--------|----------|------------|--------------|----------------|----bin :   1,42 GB																								C:\Users\Ale\anaconda3\pkgs\cudatoolkit-11.3.1-h59b6b97_2\Library\bin
+|------|--------|----------|------------|----pytorch-1.11.0-py3.8_cuda11.3_cudnn8_0.tar.bz2 :   1,23 GB																								C:\Users\Ale\anaconda3\pkgs\pytorch-1.11.0-py3.8_cuda11.3_cudnn8_0.tar.bz2
+|------|--------|----------|----envs :   5,67 GB																								C:\Users\Ale\anaconda3\envs
+|------|--------|----------|------------|----aegnn :   5,67 GB																								C:\Users\Ale\anaconda3\envs\aegnn
+|------|--------|----------|------------|--------------|----Lib :   3,26 GB																								C:\Users\Ale\anaconda3\envs\aegnn\Lib
+|------|--------|----------|------------|--------------|----------------|----site-packages :   3,23 GB																								C:\Users\Ale\anaconda3\envs\aegnn\Lib\site-packages
+|------|--------|----------|------------|--------------|----------------|------------------|----torch :   2,83 GB																								C:\Users\Ale\anaconda3\envs\aegnn\Lib\site-packages\torch
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----lib :   2,78 GB																								C:\Users\Ale\anaconda3\envs\aegnn\Lib\site-packages\torch\lib
+|------|--------|----------|------------|--------------|----Library :   2,34 GB																								C:\Users\Ale\anaconda3\envs\aegnn\Library
+|------|--------|----------|------------|--------------|----------------|----bin :   2,20 GB																								C:\Users\Ale\anaconda3\envs\aegnn\Library\bin
+|------|--------|----------|----Lib :   1,96 GB																								C:\Users\Ale\anaconda3\Lib
+|------|--------|----------|------------|----site-packages :   1,93 GB																								C:\Users\Ale\anaconda3\Lib\site-packages
+|------|--------|----------|----Library :   1,77 GB																								C:\Users\Ale\anaconda3\Library
+|------|--------|----------|------------|----bin :   1,40 GB																								C:\Users\Ale\anaconda3\Library\bin
+|------|--------|----Desktop :   16,91 GB																								C:\Users\Ale\Desktop
+|------|--------|----------|----ncars :   11,67 GB																								C:\Users\Ale\Desktop\ncars
+|------|--------|----------|------------|----training :   4,72 GB																								C:\Users\Ale\Desktop\ncars\training
+|------|--------|----------|------------|----test :   3,26 GB																								C:\Users\Ale\Desktop\ncars\test
+|------|--------|----------|------------|----processed :   2,79 GB																								C:\Users\Ale\Desktop\ncars\processed
+|------|--------|----------|------------|--------------|----training :   2,34 GB																								C:\Users\Ale\Desktop\ncars\processed\training
+|------|--------|----------|----EE :   1,39 GB																								C:\Users\Ale\Desktop\EE
+|------|--------|----------|----UNI :   1,26 GB																								C:\Users\Ale\Desktop\UNI
+|------|--------|----Documents :   4,32 GB																								C:\Users\Ale\Documents
+|------|--------|----------|----My Games :   3,20 GB																								C:\Users\Ale\Documents\My Games
+|------|--------|----------|------------|----Company of Heroes 2 :   3,11 GB																								C:\Users\Ale\Documents\My Games\Company of Heroes 2
+|------|--------|----------|------------|--------------|----mods :   2,55 GB																								C:\Users\Ale\Documents\My Games\Company of Heroes 2\mods
+|------|--------|----------|------------|--------------|----------------|----skins :   2,47 GB																								C:\Users\Ale\Documents\My Games\Company of Heroes 2\mods\skins
+|------|--------|----------|------------|--------------|----------------|------------------|----subscriptions :   2,47 GB																								C:\Users\Ale\Documents\My Games\Company of Heroes 2\mods\skins\subscriptions
+|------|--------|----aegnn-CS4240-TUD :   2,25 GB																								C:\Users\Ale\aegnn-CS4240-TUD
+|------|--------|----------|----data :   2,10 GB																								C:\Users\Ale\aegnn-CS4240-TUD\data
+|------|--------|----------|------------|----ncars.zip :   1,39 GB																								C:\Users\Ale\aegnn-CS4240-TUD\data\ncars.zip
+|------|--------|----Downloads :   1,78 GB																								C:\Users\Ale\Downloads
+|------|--------|----------|----Unconfirmed 500704.crdownload :   3,95 GB																								C:\Users\Ale\Downloads\Unconfirmed 500704.crdownload
+|------|--------|----.gradle :   1,31 GB																								C:\Users\Ale\.gradle
+|
+|----Program Files :   31,64 GB																								C:\Program Files
+|------|----Unity :   7,18 GB																								C:\Program Files\Unity
+|------|--------|----Editor :   7,18 GB																								C:\Program Files\Unity\Editor
+|------|--------|----------|----Data :   6,86 GB																								C:\Program Files\Unity\Editor\Data
+|------|--------|----------|------------|----PlaybackEngines :   4,64 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines
+|------|--------|----------|------------|--------------|----iOSSupport :   3,13 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\iOSSupport
+|------|--------|----------|------------|--------------|----------------|----Trampoline :   3,11 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\iOSSupport\Trampoline
+|------|--------|----------|------------|--------------|----------------|------------------|----Libraries :   3,10 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\iOSSupport\Trampoline\Libraries
+|------|--------|----------|------------|--------------|----AndroidPlayer :   1,20 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\AndroidPlayer
+|------|--------|----------|------------|--------------|----------------|----Variations :   1,12 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\Variations
+|------|----NVIDIA GPU Computing Toolkit :   4,98 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit
+|------|--------|----CUDA :   2,99 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA
+|------|--------|----------|----v11.3 :   1,71 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.3
+|------|--------|----------|------------|----bin :   1,39 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.3\bin
+|------|--------|----------|----v10.1 :   1,28 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1
+|------|--------|----------|------------|----bin :   1,27 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin
+|------|--------|----cuDNN :   1,34 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\cuDNN
+|------|----Microsoft Office :   3,23 GB																								C:\Program Files\Microsoft Office
+|------|--------|----root :   3,22 GB																								C:\Program Files\Microsoft Office\root
+|------|--------|----------|----Office16 :   1,76 GB																								C:\Program Files\Microsoft Office\root\Office16
+|------|--------|----------|----vfs :   1,31 GB																								C:\Program Files\Microsoft Office\root\vfs
+|------|----Docker :   3,04 GB																								C:\Program Files\Docker
+|------|--------|----Docker :   2,82 GB																								C:\Program Files\Docker\Docker
+|------|--------|----------|----resources :   2,48 GB																								C:\Program Files\Docker\Docker\resources
+|------|----NVIDIA Corporation :   2,88 GB																								C:\Program Files\NVIDIA Corporation
+|------|----Android :   1,74 GB																								C:\Program Files\Android
+|------|--------|----Android Studio :   1,74 GB																								C:\Program Files\Android\Android Studio
+|------|--------|----------|----plugins :   1,32 GB																								C:\Program Files\Android\Android Studio\plugins
+|------|----dotnet :   1,35 GB																								C:\Program Files\dotnet
+|------|--------|----sdk :   1,22 GB																								C:\Program Files\dotnet\sdk
+|------|--------|----------|----NuGetFallbackFolder :   1,01 GB																								C:\Program Files\dotnet\sdk\NuGetFallbackFolder
+|------|----JetBrains :   1,30 GB																								C:\Program Files\JetBrains
+|------|--------|----IntelliJ IDEA 2018.3.5 :   1,30 GB																								C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5
+|------|----Common Files :   1002,39 MB																								C:\Program Files\Common Files
+|
+|----Windows :   28,09 GB																								C:\Windows
+|------|----System32 :   9,54 GB																								C:\Windows\System32
+|------|--------|----DriverStore :   5,60 GB																								C:\Windows\System32\DriverStore
+|------|--------|----------|----FileRepository :   5,60 GB																								C:\Windows\System32\DriverStore\FileRepository
+|------|--------|----------|------------|----nvami.inf_amd64_aea1bab32fe9c8c8 :   1,59 GB																								C:\Windows\System32\DriverStore\FileRepository\nvami.inf_amd64_aea1bab32fe9c8c8
+|------|--------|----------|------------|----nvamui.inf_amd64_435c120f5d1124de :   1,59 GB																								C:\Windows\System32\DriverStore\FileRepository\nvamui.inf_amd64_435c120f5d1124de
+|------|--------|----------|------------|----igdlh64.inf_amd64_ceba516baea4bed9 :   1006,90 MB																								C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_ceba516baea4bed9
+|------|----WinSxS :   7,76 GB																								C:\Windows\WinSxS
+|------|----Installer :   3,10 GB																								C:\Windows\Installer
+|------|----SysWOW64 :   1,23 GB																								C:\Windows\SysWOW64
+|------|----Panther :   1,18 GB																								C:\Windows\Panther
+|------|----servicing :   1,07 GB																								C:\Windows\servicing
+|
+|----Program Files (x86) :   11,82 GB																								C:\Program Files (x86)
+|------|----Windows Kits :   3,11 GB																								C:\Program Files (x86)\Windows Kits
+|------|--------|----10 :   3,11 GB																								C:\Program Files (x86)\Windows Kits\10
+|------|--------|----------|----Lib :   1,85 GB																								C:\Program Files (x86)\Windows Kits\10\Lib
+|------|--------|----------|------------|----10.0.17134.0 :   960,22 MB																								C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0
+|------|----Microsoft :   1,69 GB																								C:\Program Files (x86)\Microsoft
+|------|----Steam :   1,63 GB																								C:\Program Files (x86)\Steam
+|------|----NVIDIA Corporation :   1,10 GB																								C:\Program Files (x86)\NVIDIA Corporation
+|
+|----pagefile.sys :   8,50 GB																								C:\pagefile.sys
+|
+|----hiberfil.sys :   6,36 GB																								C:\hiberfil.sys
+|
+|----ProgramData :   5,73 GB																								C:\ProgramData
+|------|----NVIDIA Corporation :   2,23 GB																								C:\ProgramData\NVIDIA Corporation
+|------|--------|----Downloader :   1,42 GB																								C:\ProgramData\NVIDIA Corporation\Downloader
+|------|----Package Cache :   1,24 GB																								C:\ProgramData\Package Cache
+|
+|----eSupport :   3,34 GB																								C:\eSupport
+|------|----eDriver :   3,13 GB																								C:\eSupport\eDriver
+|------|--------|----Software :   3,12 GB																								C:\eSupport\eDriver\Software
+|------|--------|----------|----Graphic :   1,93 GB																								C:\eSupport\eDriver\Software\Graphic
+|------|--------|----------|------------|----NVIDIA :   1,05 GB																								C:\eSupport\eDriver\Software\Graphic\NVIDIA
+|------|--------|----------|------------|--------------|----Graphic :   1,05 GB																								C:\eSupport\eDriver\Software\Graphic\NVIDIA\Graphic
+|------|--------|----------|------------|--------------|----------------|----22.21.13.8573 :   1,05 GB																								C:\eSupport\eDriver\Software\Graphic\NVIDIA\Graphic\22.21.13.8573
+|------|--------|----------|------------|--------------|----------------|------------------|----8191 :   1,05 GB																								C:\eSupport\eDriver\Software\Graphic\NVIDIA\Graphic\22.21.13.8573\8191
+|
+|----$Recycle.Bin :   1,15 GB																								C:\$Recycle.Bin
+|------|----S-1-5-21-1000728554-3279251385-918450708-1001 :   11,67 GB																								C:\$Recycle.Bin\S-1-5-21-1000728554-3279251385-918450708-1001
+|------|--------|----$RZDV6AS :   11,67 GB																								C:\$Recycle.Bin\S-1-5-21-1000728554-3279251385-918450708-1001\$RZDV6AS
+|------|--------|----------|----training :   4,72 GB																								C:\$Recycle.Bin\S-1-5-21-1000728554-3279251385-918450708-1001\$RZDV6AS\training
+|------|--------|----------|----test :   3,26 GB																								C:\$Recycle.Bin\S-1-5-21-1000728554-3279251385-918450708-1001\$RZDV6AS\test
+|------|--------|----------|----processed :   2,79 GB																								C:\$Recycle.Bin\S-1-5-21-1000728554-3279251385-918450708-1001\$RZDV6AS\processed
+|------|--------|----------|------------|----training :   2,34 GB																								C:\$Recycle.Bin\S-1-5-21-1000728554-3279251385-918450708-1001\$RZDV6AS\processed\training
+
+
+
+
+
+
+Total scanning time = 305s

@@ -1,0 +1,271 @@
+Memory Inspector Log:
+
+
+Detected drives:
+
+C:/
+Total Space : 237,42 GB
+Available Space : 101,85 GB
+57,10% FULL
+
+D:/
+Total Space : 931,51 GB
+Available Space : 208,81 GB
+77,58% FULL
+
+
+Checking drives:
+C:/
+
+
+
+
+**SETTINGS**
+
+***Custom search:***
+no depth limit
+size > 500000000 bytes
+
+
+***SCANNING***
+
+
+C:/
+|
+|----Users :   44,18 GB																								C:\Users
+|------|----Ale :   44,18 GB																								C:\Users\Ale
+|------|--------|----AppData :   24,20 GB																								C:\Users\Ale\AppData
+|------|--------|----------|----Local :   19,46 GB																								C:\Users\Ale\AppData\Local
+|------|--------|----------|------------|----Android :   4,93 GB																								C:\Users\Ale\AppData\Local\Android
+|------|--------|----------|------------|--------------|----Sdk :   4,93 GB																								C:\Users\Ale\AppData\Local\Android\Sdk
+|------|--------|----------|------------|--------------|----------------|----system-images :   2,69 GB																								C:\Users\Ale\AppData\Local\Android\Sdk\system-images
+|------|--------|----------|------------|--------------|----------------|------------------|----android-28 :   2,69 GB																								C:\Users\Ale\AppData\Local\Android\Sdk\system-images\android-28
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----google_apis_playstore :   2,69 GB																								C:\Users\Ale\AppData\Local\Android\Sdk\system-images\android-28\google_apis_playstore
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----x86 :   2,69 GB																								C:\Users\Ale\AppData\Local\Android\Sdk\system-images\android-28\google_apis_playstore\x86
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|----system.img :   2,58 GB																								C:\Users\Ale\AppData\Local\Android\Sdk\system-images\android-28\google_apis_playstore\x86\system.img
+|------|--------|----------|------------|--------------|----------------|----emulator :   797,93 MB																								C:\Users\Ale\AppData\Local\Android\Sdk\emulator
+|------|--------|----------|------------|--------------|----------------|------------------|----qemu :   510,33 MB																								C:\Users\Ale\AppData\Local\Android\Sdk\emulator\qemu
+|------|--------|----------|------------|--------------|----------------|----extras :   563,58 MB																								C:\Users\Ale\AppData\Local\Android\Sdk\extras
+|------|--------|----------|------------|----Programs :   4,64 GB																								C:\Users\Ale\AppData\Local\Programs
+|------|--------|----------|------------|--------------|----Python :   4,31 GB																								C:\Users\Ale\AppData\Local\Programs\Python
+|------|--------|----------|------------|--------------|----------------|----Python38 :   4,22 GB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38
+|------|--------|----------|------------|--------------|----------------|------------------|----Lib :   4,19 GB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----site-packages :   4,14 GB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----torch :   2,05 GB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages\torch
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|----lib :   2,02 GB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages\torch\lib
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|--------------------------|----torch_cuda.dll :   539,36 MB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages\torch\lib\torch_cuda.dll
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----tensorflow :   952,75 MB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages\tensorflow
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|----python :   851,87 MB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages\tensorflow\python
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|--------------------------|----_pywrap_tensorflow_internal.pyd :   678,26 MB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages\tensorflow\python\_pywrap_tensorflow_internal.pyd
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----~orch :   727,68 MB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages\~orch
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|----lib :   713,85 MB																								C:\Users\Ale\AppData\Local\Programs\Python\Python38\Lib\site-packages\~orch\lib
+|------|--------|----------|------------|----Unity :   1,76 GB																								C:\Users\Ale\AppData\Local\Unity
+|------|--------|----------|------------|--------------|----cache :   1,74 GB																								C:\Users\Ale\AppData\Local\Unity\cache
+|------|--------|----------|------------|--------------|----------------|----npm :   1,63 GB																								C:\Users\Ale\AppData\Local\Unity\cache\npm
+|------|--------|----------|------------|--------------|----------------|------------------|----packages.unity.com :   1,63 GB																								C:\Users\Ale\AppData\Local\Unity\cache\npm\packages.unity.com
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----com.unity.burst :   637,10 MB																								C:\Users\Ale\AppData\Local\Unity\cache\npm\packages.unity.com\com.unity.burst
+|------|--------|----------|------------|----pip :   1,68 GB																								C:\Users\Ale\AppData\Local\pip
+|------|--------|----------|------------|--------------|----cache :   1,68 GB																								C:\Users\Ale\AppData\Local\pip\cache
+|------|--------|----------|------------|--------------|----------------|----http :   1,67 GB																								C:\Users\Ale\AppData\Local\pip\cache\http
+|------|--------|----------|------------|--------------|----------------|------------------|----8 :   982,21 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----c :   974,24 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8\c
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----1 :   974,24 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8\c\1
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|----8 :   974,24 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8\c\1\8
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|--------------------------|----d :   974,24 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8\c\1\8\d
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|------------------------|--------------------------|----------------------------|----8c18d1617c45599766806515605ceb7c6ce6bae15101f0552b59ce1f :   974,24 MB																								C:\Users\Ale\AppData\Local\pip\cache\http\8\c\1\8\d\8c18d1617c45599766806515605ceb7c6ce6bae15101f0552b59ce1f
+|------|--------|----------|------------|----Microsoft :   1,40 GB																								C:\Users\Ale\AppData\Local\Microsoft
+|------|--------|----------|------------|--------------|----Teams :   705,79 MB																								C:\Users\Ale\AppData\Local\Microsoft\Teams
+|------|--------|----------|------------|----Packages :   1,09 GB																								C:\Users\Ale\AppData\Local\Packages
+|------|--------|----------|------------|----ConnectedDevicesPlatform :   705,86 MB																								C:\Users\Ale\AppData\Local\ConnectedDevicesPlatform
+|------|--------|----------|------------|--------------|----cfa6d96a51e553f2 :   704,66 MB																								C:\Users\Ale\AppData\Local\ConnectedDevicesPlatform\cfa6d96a51e553f2
+|------|--------|----------|------------|--------------|----------------|----ActivitiesCache.db :   702,00 MB																								C:\Users\Ale\AppData\Local\ConnectedDevicesPlatform\cfa6d96a51e553f2\ActivitiesCache.db
+|------|--------|----------|------------|----Google :   494,74 MB																								C:\Users\Ale\AppData\Local\Google
+|------|--------|----------|----Roaming :   4,26 GB																								C:\Users\Ale\AppData\Roaming
+|------|--------|----------|------------|----.minecraft :   1,28 GB																								C:\Users\Ale\AppData\Roaming\.minecraft
+|------|--------|----------|------------|--------------|----saves :   613,36 MB																								C:\Users\Ale\AppData\Roaming\.minecraft\saves
+|------|--------|----------|------------|----Microsoft :   1,06 GB																								C:\Users\Ale\AppData\Roaming\Microsoft
+|------|--------|----------|------------|--------------|----Teams :   1,01 GB																								C:\Users\Ale\AppData\Roaming\Microsoft\Teams
+|------|--------|----------|------------|--------------|----------------|----Service Worker :   810,45 MB																								C:\Users\Ale\AppData\Roaming\Microsoft\Teams\Service Worker
+|------|--------|----------|------------|--------------|----------------|------------------|----CacheStorage :   809,72 MB																								C:\Users\Ale\AppData\Roaming\Microsoft\Teams\Service Worker\CacheStorage
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----2b5c392d2730c0910fd56433cc5e73e510d0f2b4 :   809,71 MB																								C:\Users\Ale\AppData\Roaming\Microsoft\Teams\Service Worker\CacheStorage\2b5c392d2730c0910fd56433cc5e73e510d0f2b4
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----------------------|----6f3ed1d0-c0b4-4dd1-833c-29ee3610006f :   809,71 MB																								C:\Users\Ale\AppData\Roaming\Microsoft\Teams\Service Worker\CacheStorage\2b5c392d2730c0910fd56433cc5e73e510d0f2b4\6f3ed1d0-c0b4-4dd1-833c-29ee3610006f
+|------|--------|----------|------------|----Slack :   978,58 MB																								C:\Users\Ale\AppData\Roaming\Slack
+|------|--------|----------|------------|--------------|----Service Worker :   644,03 MB																								C:\Users\Ale\AppData\Roaming\Slack\Service Worker
+|------|--------|----------|------------|--------------|----------------|----CacheStorage :   643,85 MB																								C:\Users\Ale\AppData\Roaming\Slack\Service Worker\CacheStorage
+|------|--------|----------|------------|--------------|----------------|------------------|----4c237d5e33167c88df3e45d9c8b59fdd4d727472 :   643,85 MB																								C:\Users\Ale\AppData\Roaming\Slack\Service Worker\CacheStorage\4c237d5e33167c88df3e45d9c8b59fdd4d727472
+|------|--------|----------|----LocalLow :   490,46 MB																								C:\Users\Ale\AppData\LocalLow
+|------|--------|----Desktop :   5,24 GB																								C:\Users\Ale\Desktop
+|------|--------|----------|----EE :   1,39 GB																								C:\Users\Ale\Desktop\EE
+|------|--------|----------|------------|----EE UNLIMITED :   762,12 MB																								C:\Users\Ale\Desktop\EE\EE UNLIMITED
+|------|--------|----------|------------|--------------|----EE Installation :   482,21 MB																								C:\Users\Ale\Desktop\EE\EE UNLIMITED\EE Installation
+|------|--------|----------|------------|----EE UNLIMITED.exe :   659,32 MB																								C:\Users\Ale\Desktop\EE\EE UNLIMITED.exe
+|------|--------|----------|----UNI :   1,26 GB																								C:\Users\Ale\Desktop\UNI
+|------|--------|----Downloads :   4,59 GB																								C:\Users\Ale\Downloads
+|------|--------|----------|----ubuntu-22.04.2-desktop-amd64.iso :   4,59 GB																								C:\Users\Ale\Downloads\ubuntu-22.04.2-desktop-amd64.iso
+|------|--------|----Documents :   4,32 GB																								C:\Users\Ale\Documents
+|------|--------|----------|----My Games :   3,20 GB																								C:\Users\Ale\Documents\My Games
+|------|--------|----------|------------|----Company of Heroes 2 :   3,11 GB																								C:\Users\Ale\Documents\My Games\Company of Heroes 2
+|------|--------|----------|------------|--------------|----mods :   2,55 GB																								C:\Users\Ale\Documents\My Games\Company of Heroes 2\mods
+|------|--------|----------|------------|--------------|----------------|----skins :   2,47 GB																								C:\Users\Ale\Documents\My Games\Company of Heroes 2\mods\skins
+|------|--------|----------|------------|--------------|----------------|------------------|----subscriptions :   2,47 GB																								C:\Users\Ale\Documents\My Games\Company of Heroes 2\mods\skins\subscriptions
+|------|--------|----------|----Python :   632,31 MB																								C:\Users\Ale\Documents\Python
+|------|--------|----------|------------|----TensorFlow :   486,41 MB																								C:\Users\Ale\Documents\Python\TensorFlow
+|------|--------|----.gradle :   1,31 GB																								C:\Users\Ale\.gradle
+|------|--------|----------|----wrapper :   679,67 MB																								C:\Users\Ale\.gradle\wrapper
+|------|--------|----------|------------|----dists :   679,67 MB																								C:\Users\Ale\.gradle\wrapper\dists
+|------|--------|----.android :   916,57 MB																								C:\Users\Ale\.android
+|------|--------|----------|----avd :   914,93 MB																								C:\Users\Ale\.android\avd
+|------|--------|----------|------------|----Nexus_5X_API_28.avd :   914,93 MB																								C:\Users\Ale\.android\avd\Nexus_5X_API_28.avd
+|------|--------|----------|------------|--------------|----sdcard.img :   512,00 MB																								C:\Users\Ale\.android\avd\Nexus_5X_API_28.avd\sdcard.img
+|------|--------|----.AndroidStudio3.2 :   757,64 MB																								C:\Users\Ale\.AndroidStudio3.2
+|------|--------|----------|----system :   753,89 MB																								C:\Users\Ale\.AndroidStudio3.2\system
+|------|--------|----------|------------|----tmp :   522,42 MB																								C:\Users\Ale\.AndroidStudio3.2\system\tmp
+|------|--------|----------|------------|--------------|----patch-update :   522,19 MB																								C:\Users\Ale\.AndroidStudio3.2\system\tmp\patch-update
+|------|--------|----.AndroidStudio3.3 :   707,42 MB																								C:\Users\Ale\.AndroidStudio3.3
+|------|--------|----------|----system :   703,24 MB																								C:\Users\Ale\.AndroidStudio3.3\system
+|------|--------|----AndroidStudioProjects :   499,61 MB																								C:\Users\Ale\AndroidStudioProjects
+|
+|----Windows :   26,93 GB																								C:\Windows
+|------|----System32 :   9,54 GB																								C:\Windows\System32
+|------|--------|----DriverStore :   5,60 GB																								C:\Windows\System32\DriverStore
+|------|--------|----------|----FileRepository :   5,60 GB																								C:\Windows\System32\DriverStore\FileRepository
+|------|--------|----------|------------|----nvami.inf_amd64_aea1bab32fe9c8c8 :   1,59 GB																								C:\Windows\System32\DriverStore\FileRepository\nvami.inf_amd64_aea1bab32fe9c8c8
+|------|--------|----------|------------|----nvamui.inf_amd64_435c120f5d1124de :   1,59 GB																								C:\Windows\System32\DriverStore\FileRepository\nvamui.inf_amd64_435c120f5d1124de
+|------|--------|----------|------------|----igdlh64.inf_amd64_ceba516baea4bed9 :   1006,90 MB																								C:\Windows\System32\DriverStore\FileRepository\igdlh64.inf_amd64_ceba516baea4bed9
+|------|----WinSxS :   7,76 GB																								C:\Windows\WinSxS
+|------|----Installer :   2,43 GB																								C:\Windows\Installer
+|------|--------|----48c37abe.msi :   517,15 MB																								C:\Windows\Installer\48c37abe.msi
+|------|----SysWOW64 :   1,23 GB																								C:\Windows\SysWOW64
+|------|----servicing :   1,07 GB																								C:\Windows\servicing
+|------|--------|----LCU :   904,28 MB																								C:\Windows\servicing\LCU
+|------|--------|----------|----Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2846.1.6 :   904,28 MB																								C:\Windows\servicing\LCU\Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.2846.1.6
+|------|----assembly :   915,19 MB																								C:\Windows\assembly
+|------|----Microsoft.NET :   815,72 MB																								C:\Windows\Microsoft.NET
+|------|----SoftwareDistribution :   796,30 MB																								C:\Windows\SoftwareDistribution
+|------|--------|----Download :   752,45 MB																								C:\Windows\SoftwareDistribution\Download
+|------|--------|----------|----91bd58f346a28400e942d022cd731b7e :   711,35 MB																								C:\Windows\SoftwareDistribution\Download\91bd58f346a28400e942d022cd731b7e
+|------|--------|----------|------------|----Windows10.0-KB5025221-x64.cab :   666,25 MB																								C:\Windows\SoftwareDistribution\Download\91bd58f346a28400e942d022cd731b7e\Windows10.0-KB5025221-x64.cab
+|------|----Panther :   733,43 MB																								C:\Windows\Panther
+|------|--------|----MigLog.xml :   550,53 MB																								C:\Windows\Panther\MigLog.xml
+|
+|----Program Files :   25,35 GB																								C:\Program Files
+|------|----Unity :   7,18 GB																								C:\Program Files\Unity
+|------|--------|----Editor :   7,18 GB																								C:\Program Files\Unity\Editor
+|------|--------|----------|----Data :   6,86 GB																								C:\Program Files\Unity\Editor\Data
+|------|--------|----------|------------|----PlaybackEngines :   4,64 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines
+|------|--------|----------|------------|--------------|----iOSSupport :   3,13 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\iOSSupport
+|------|--------|----------|------------|--------------|----------------|----Trampoline :   3,11 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\iOSSupport\Trampoline
+|------|--------|----------|------------|--------------|----------------|------------------|----Libraries :   3,10 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\iOSSupport\Trampoline\Libraries
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----libiPhone-lib-il2cpp-dev.a :   773,34 MB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\iOSSupport\Trampoline\Libraries\libiPhone-lib-il2cpp-dev.a
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----libiPhone-lib-il2cpp.a :   511,98 MB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\iOSSupport\Trampoline\Libraries\libiPhone-lib-il2cpp.a
+|------|--------|----------|------------|--------------|----AndroidPlayer :   1,20 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\AndroidPlayer
+|------|--------|----------|------------|--------------|----------------|----Variations :   1,12 GB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\Variations
+|------|--------|----------|------------|--------------|----------------|------------------|----il2cpp :   923,31 MB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\Variations\il2cpp
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----Development :   525,25 MB																								C:\Program Files\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\Variations\il2cpp\Development
+|------|--------|----------|------------|----Documentation :   835,89 MB																								C:\Program Files\Unity\Editor\Data\Documentation
+|------|--------|----------|------------|--------------|----en :   835,51 MB																								C:\Program Files\Unity\Editor\Data\Documentation\en
+|------|----NVIDIA GPU Computing Toolkit :   4,98 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit
+|------|--------|----CUDA :   2,99 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA
+|------|--------|----------|----v11.3 :   1,71 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.3
+|------|--------|----------|------------|----bin :   1,39 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v11.3\bin
+|------|--------|----------|----v10.1 :   1,28 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1
+|------|--------|----------|------------|----bin :   1,27 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v10.1\bin
+|------|--------|----cuDNN :   1,34 GB																								C:\Program Files\NVIDIA GPU Computing Toolkit\cuDNN
+|------|--------|----------|----cuda :   909,77 MB																								C:\Program Files\NVIDIA GPU Computing Toolkit\cuDNN\cuda
+|------|--------|----------|------------|----bin :   902,96 MB																								C:\Program Files\NVIDIA GPU Computing Toolkit\cuDNN\cuda\bin
+|------|--------|----cuDNNv7.6.5(for Tensorflow) :   665,46 MB																								C:\Program Files\NVIDIA GPU Computing Toolkit\cuDNNv7.6.5(for Tensorflow)
+|------|----Microsoft Office :   3,23 GB																								C:\Program Files\Microsoft Office
+|------|--------|----root :   3,22 GB																								C:\Program Files\Microsoft Office\root
+|------|--------|----------|----Office16 :   1,76 GB																								C:\Program Files\Microsoft Office\root\Office16
+|------|--------|----------|----vfs :   1,31 GB																								C:\Program Files\Microsoft Office\root\vfs
+|------|--------|----------|------------|----ProgramFilesCommonX64 :   614,78 MB																								C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64
+|------|--------|----------|------------|--------------|----Microsoft Shared :   614,06 MB																								C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared
+|------|--------|----------|------------|--------------|----------------|----OFFICE16 :   552,57 MB																								C:\Program Files\Microsoft Office\root\vfs\ProgramFilesCommonX64\Microsoft Shared\OFFICE16
+|------|----NVIDIA Corporation :   2,88 GB																								C:\Program Files\NVIDIA Corporation
+|------|--------|----Nsight Systems 2023.1.2 :   824,72 MB																								C:\Program Files\NVIDIA Corporation\Nsight Systems 2023.1.2
+|------|--------|----Nsight Systems 2021.1.3 :   514,50 MB																								C:\Program Files\NVIDIA Corporation\Nsight Systems 2021.1.3
+|------|----dotnet :   1,35 GB																								C:\Program Files\dotnet
+|------|--------|----sdk :   1,22 GB																								C:\Program Files\dotnet\sdk
+|------|--------|----------|----NuGetFallbackFolder :   1,01 GB																								C:\Program Files\dotnet\sdk\NuGetFallbackFolder
+|------|----JetBrains :   1,30 GB																								C:\Program Files\JetBrains
+|------|--------|----IntelliJ IDEA 2018.3.5 :   1,30 GB																								C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5
+|------|--------|----------|----plugins :   765,51 MB																								C:\Program Files\JetBrains\IntelliJ IDEA 2018.3.5\plugins
+|------|----Git :   741,46 MB																								C:\Program Files\Git
+|------|--------|----mingw64 :   569,76 MB																								C:\Program Files\Git\mingw64
+|------|--------|----------|----libexec :   500,17 MB																								C:\Program Files\Git\mingw64\libexec
+|------|--------|----------|------------|----git-core :   500,17 MB																								C:\Program Files\Git\mingw64\libexec\git-core
+|------|----Java :   572,99 MB																								C:\Program Files\Java
+|------|----PostgreSQL :   530,52 MB																								C:\Program Files\PostgreSQL
+|------|--------|----11 :   530,52 MB																								C:\Program Files\PostgreSQL\11
+|
+|----Program Files (x86) :   11,59 GB																								C:\Program Files (x86)
+|------|----Windows Kits :   3,11 GB																								C:\Program Files (x86)\Windows Kits
+|------|--------|----10 :   3,11 GB																								C:\Program Files (x86)\Windows Kits\10
+|------|--------|----------|----Lib :   1,85 GB																								C:\Program Files (x86)\Windows Kits\10\Lib
+|------|--------|----------|------------|----10.0.17134.0 :   960,22 MB																								C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0
+|------|--------|----------|------------|--------------|----ucrt :   500,52 MB																								C:\Program Files (x86)\Windows Kits\10\Lib\10.0.17134.0\ucrt
+|------|--------|----------|------------|----10.0.16299.0 :   937,35 MB																								C:\Program Files (x86)\Windows Kits\10\Lib\10.0.16299.0
+|------|--------|----------|------------|--------------|----ucrt :   480,55 MB																								C:\Program Files (x86)\Windows Kits\10\Lib\10.0.16299.0\ucrt
+|------|--------|----------|----Include :   535,52 MB																								C:\Program Files (x86)\Windows Kits\10\Include
+|------|----Microsoft :   1,69 GB																								C:\Program Files (x86)\Microsoft
+|------|--------|----Edge :   616,34 MB																								C:\Program Files (x86)\Microsoft\Edge
+|------|--------|----------|----Application :   616,34 MB																								C:\Program Files (x86)\Microsoft\Edge\Application
+|------|--------|----------|------------|----112.0.1722.64 :   610,20 MB																								C:\Program Files (x86)\Microsoft\Edge\Application\112.0.1722.64
+|------|--------|----EdgeWebView :   609,10 MB																								C:\Program Files (x86)\Microsoft\EdgeWebView
+|------|--------|----------|----Application :   609,10 MB																								C:\Program Files (x86)\Microsoft\EdgeWebView\Application
+|------|--------|----------|------------|----112.0.1722.64 :   608,86 MB																								C:\Program Files (x86)\Microsoft\EdgeWebView\Application\112.0.1722.64
+|------|--------|----EdgeCore :   478,21 MB																								C:\Program Files (x86)\Microsoft\EdgeCore
+|------|--------|----------|----112.0.1722.64 :   478,21 MB																								C:\Program Files (x86)\Microsoft\EdgeCore\112.0.1722.64
+|------|----Steam :   1,40 GB																								C:\Program Files (x86)\Steam
+|------|----NVIDIA Corporation :   1,10 GB																								C:\Program Files (x86)\NVIDIA Corporation
+|------|--------|----Nsight Visual Studio Edition 2023.1 :   852,36 MB																								C:\Program Files (x86)\NVIDIA Corporation\Nsight Visual Studio Edition 2023.1
+|------|----Dropbox :   653,52 MB																								C:\Program Files (x86)\Dropbox
+|------|----Google :   614,46 MB																								C:\Program Files (x86)\Google
+|------|--------|----Chrome :   603,43 MB																								C:\Program Files (x86)\Google\Chrome
+|------|--------|----------|----Application :   603,43 MB																								C:\Program Files (x86)\Google\Chrome\Application
+|------|--------|----------|------------|----112.0.5615.139 :   598,71 MB																								C:\Program Files (x86)\Google\Chrome\Application\112.0.5615.139
+|------|----Battle.net :   568,68 MB																								C:\Program Files (x86)\Battle.net
+|------|----Arduino :   480,44 MB																								C:\Program Files (x86)\Arduino
+|
+|----pagefile.sys :   8,50 GB																								C:\pagefile.sys
+|
+|----hiberfil.sys :   6,36 GB																								C:\hiberfil.sys
+|
+|----ProgramData :   5,73 GB																								C:\ProgramData
+|------|----NVIDIA Corporation :   2,23 GB																								C:\ProgramData\NVIDIA Corporation
+|------|--------|----Downloader :   1,42 GB																								C:\ProgramData\NVIDIA Corporation\Downloader
+|------|--------|----------|----11043a6b9ddd0169691c7ffab89bef97 :   735,76 MB																								C:\ProgramData\NVIDIA Corporation\Downloader\11043a6b9ddd0169691c7ffab89bef97
+|------|--------|----------|------------|----531.68-notebook-win10-win11-64bit-international-dch-whql-g.exe :   735,76 MB																								C:\ProgramData\NVIDIA Corporation\Downloader\11043a6b9ddd0169691c7ffab89bef97\531.68-notebook-win10-win11-64bit-international-dch-whql-g.exe
+|------|--------|----------|----PostProcessing :   590,66 MB																								C:\ProgramData\NVIDIA Corporation\Downloader\PostProcessing
+|------|--------|----------|------------|----GFE :   590,66 MB																								C:\ProgramData\NVIDIA Corporation\Downloader\PostProcessing\GFE
+|------|--------|----------|------------|--------------|----60f2d0e7dee93517db08a8f8a2f371dd :   590,66 MB																								C:\ProgramData\NVIDIA Corporation\Downloader\PostProcessing\GFE\60f2d0e7dee93517db08a8f8a2f371dd
+|------|--------|----Nsight :   517,16 MB																								C:\ProgramData\NVIDIA Corporation\Nsight
+|------|--------|----------|----nsight_visual_studio_edition-windows-x86_64-2023.1.1.23089_32673672.msi :   517,15 MB																								C:\ProgramData\NVIDIA Corporation\Nsight\nsight_visual_studio_edition-windows-x86_64-2023.1.1.23089_32673672.msi
+|------|----Package Cache :   1,24 GB																								C:\ProgramData\Package Cache
+|------|----Microsoft :   825,01 MB																								C:\ProgramData\Microsoft
+|
+|----eSupport :   3,34 GB																								C:\eSupport
+|------|----eDriver :   3,13 GB																								C:\eSupport\eDriver
+|------|--------|----Software :   3,12 GB																								C:\eSupport\eDriver\Software
+|------|--------|----------|----Graphic :   1,93 GB																								C:\eSupport\eDriver\Software\Graphic
+|------|--------|----------|------------|----NVIDIA :   1,05 GB																								C:\eSupport\eDriver\Software\Graphic\NVIDIA
+|------|--------|----------|------------|--------------|----Graphic :   1,05 GB																								C:\eSupport\eDriver\Software\Graphic\NVIDIA\Graphic
+|------|--------|----------|------------|--------------|----------------|----22.21.13.8573 :   1,05 GB																								C:\eSupport\eDriver\Software\Graphic\NVIDIA\Graphic\22.21.13.8573
+|------|--------|----------|------------|--------------|----------------|------------------|----8191 :   1,05 GB																								C:\eSupport\eDriver\Software\Graphic\NVIDIA\Graphic\22.21.13.8573\8191
+|------|--------|----------|------------|----Intel :   898,50 MB																								C:\eSupport\eDriver\Software\Graphic\Intel
+|------|--------|----------|------------|--------------|----Graphic :   898,50 MB																								C:\eSupport\eDriver\Software\Graphic\Intel\Graphic
+|------|--------|----------|------------|--------------|----------------|----23.20.16.4849 :   898,50 MB																								C:\eSupport\eDriver\Software\Graphic\Intel\Graphic\23.20.16.4849
+|------|--------|----------|------------|--------------|----------------|------------------|----8226 :   898,50 MB																								C:\eSupport\eDriver\Software\Graphic\Intel\Graphic\23.20.16.4849\8226
+|------|--------|----------|------------|--------------|----------------|------------------|--------------------|----Graphics :   887,26 MB																								C:\eSupport\eDriver\Software\Graphic\Intel\Graphic\23.20.16.4849\8226\Graphics
+|------|--------|----------|----Audio :   681,99 MB																								C:\eSupport\eDriver\Software\Audio
+|------|--------|----------|------------|----Realtek :   681,99 MB																								C:\eSupport\eDriver\Software\Audio\Realtek
+|------|--------|----------|------------|--------------|----Audio :   681,99 MB																								C:\eSupport\eDriver\Software\Audio\Realtek\Audio
+|------|--------|----------|------------|--------------|----------------|----6.0.1.8302 :   681,99 MB																								C:\eSupport\eDriver\Software\Audio\Realtek\Audio\6.0.1.8302
+|------|--------|----------|------------|--------------|----------------|------------------|----8177 :   681,99 MB																								C:\eSupport\eDriver\Software\Audio\Realtek\Audio\6.0.1.8302\8177
+
+
+
+
+
+
+Total scanning time = 124s
